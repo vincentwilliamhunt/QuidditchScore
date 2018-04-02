@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/custom_toast_container">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/irelandflag"
+        android:layout_margin="16dp"/>
+
+    <TextView
+        style="@style/strokeLettering"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ireland_wins"
+        android:layout_centerInParent="true"
+        android:textSize="42sp"/>
+
+</RelativeLayout>

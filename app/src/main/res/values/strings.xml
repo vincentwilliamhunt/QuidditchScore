@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuidditchScore</string>
+    <string name="ireland">Ireland</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="quaffle">Quaffle</string>
+    <string name="snitch">Snitch</string>
+    <string name="obliviate">Obliviate</string>
+    <string name="zero">0</string>
+    <string name="ireland_wins">Ireland Wins!</string>
+    <string name="bulgaria_wins">Bulgaria Wins!</string>
+    <string name="a_tie">It\'s a tie!</string>
+    <string name="tie">Tie!</string>
+</resources>
