@@ -5,10 +5,12 @@
     android:id="@+id/custom_toast_container">
 
     <ImageView
+        android:contentDescription="@string/ireland_flag"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/irelandflag"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp"
+        android:alpha="0.80"/>
 
     <TextView
         style="@style/strokeLettering"

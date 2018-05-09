@@ -10,20 +10,24 @@
             android:orientation="horizontal">
 
             <ImageView
+                android:contentDescription="@string/ireland_flag"
                 android:id="@+id/ireland_flag"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="0.5"
                 android:padding="16dp"
-                android:src="@drawable/irelandflag"/>
+                android:src="@drawable/irelandflag"
+                android:alpha="0.80"/>
 
             <ImageView
+                android:contentDescription="@string/bulgaria_flag"
                 android:id="@+id/bulgaria_flag"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="0.5"
                 android:padding="16dp"
-                android:src="@drawable/bulgariaflag"/>
+                android:src="@drawable/bulgariaflag"
+                android:alpha="0.80"/>
 
         </LinearLayout>
 

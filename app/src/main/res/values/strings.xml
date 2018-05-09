@@ -10,4 +10,7 @@
     <string name="bulgaria_wins">Bulgaria Wins!</string>
     <string name="a_tie">It\'s a tie!</string>
     <string name="tie">Tie!</string>
+    <string name="quidditch_background">Quidditch Background</string>
+    <string name="ireland_flag">Ireland Flag</string>
+    <string name="bulgaria_flag">Bulgaria Flag</string>
 </resources>
